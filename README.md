@@ -1,3 +1,3 @@
 # basicMachineLearning-DICODING
 
-Documentation of machine learning that i learn from Dicoding.com
+Documentation of machine learning that i learn from dicoding.com
